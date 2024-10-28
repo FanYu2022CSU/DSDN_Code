@@ -1,0 +1,10 @@
+# For package
+fast_pareto
+matplotlib
+
+# For local check
+pytest-cov
+pytest
+flake8
+black
+mypy
